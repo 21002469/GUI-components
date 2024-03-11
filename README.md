@@ -126,6 +126,14 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 
+![image](https://github.com/21002469/GUI-components/assets/113591539/60e2e032-b0d1-40aa-8682-c869c3fe42bc)
+
+
+![image](https://github.com/21002469/GUI-components/assets/113591539/392c0d05-7b50-4f3d-949a-af691265ffa2)
+
+
+
+
 
 
 ## RESULT
